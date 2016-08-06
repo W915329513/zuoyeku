@@ -1,0 +1,428 @@
+.k1 .one{
+	width: 1299px;
+	background: #f1f1f1;
+	padding-left: 116px;
+	padding-bottom: 1px;
+
+}
+
+.k1 .one strong, .k1 .one .b{
+	font-size: 11px;
+	line-height: 29px;
+	color: #666666;
+	margin-right: 6px;
+	display:  block;
+	float: left;
+}
+.k1 .one .b{
+	
+	width: 40px;
+	background: url(../images/k1bg01.png) no-repeat 27px 12px;
+}
+.k1 .one ul{
+	width: 912px;
+}
+.k1 .one li{
+	height: 11px;
+	float: left;
+	line-height: 29px;
+}
+.k1 .one ul a{
+	font-size: 11px;
+	color: #666666;
+	border-right: 1px solid #dddddd;
+	padding: 0px 10px;
+
+}
+.k1 .one ul .nav{
+	border-right: none;
+}
+.k1 .tow{
+	width: 947px;
+	
+	background: url(../images/k1title.png) no-repeat 107px 29px;
+	padding-left: 468px;
+	padding-top: 25px;
+	position: relative;
+	
+}
+.k1 .tow .first li{
+	float: left;
+}
+.k1 .tow .first{
+	width: 538px;
+}
+.k1 .tow input{
+	width: 454px;
+	height: 32px;
+	
+	border-right: none;
+}
+.k1 .tow button{
+	width: 82px;
+	height: 36px;
+	background:#b61d1d;
+	font-size: 16px;
+	color: #ffffff;
+}
+.k1 .tow .first .b{
+	margin-right: 11px;
+}
+.k1 .tow .first .a{
+	font-size: 11px;
+	color: #666666;
+	line-height: 27px;
+	padding-bottom:12px;
+}
+.k1 .tow .first .c{
+	color: #c81623;
+}
+
+.k1 .tow .second{
+	display: block;
+	width: 139px;
+	border: 1px solid #efefef;
+	position: absolute;
+	top: 25px;
+	right: 164px;
+	line-height: 33px;
+	padding-bottom: 1px;
+}
+.k1 .tow .second .title{
+	text-align: center;
+	font-size: 11px;
+	color: #666666;
+	margin-left: 44px;
+}
+.k1 .tow .second .a{
+	position: absolute;
+	left:19px;
+	top:10px;
+
+}
+.k1 .tow .second .b{
+	position: absolute;
+	right: 19px;
+	top: -3px;
+
+}
+.k1 .three{
+	width: 1309px;
+	border-bottom: 2px solid #b1191a;
+	padding-top: 1px;
+	padding-left:106px; 
+}
+.k1 .three li{
+	float: left;
+	line-height: 43px;
+	margin-right: 40px;
+}
+.k1 .three div{
+	float: left;
+	width: 210px;
+	background: #b1191a;
+	margin-right: 20px;
+	line-height: 43px;
+	text-align: center;
+}
+.k1 .three div a{
+	color: #faf0ff;
+}
+.k1 .three a{
+	font-size: 15px;
+	color: #333333;
+}
+.k2{
+	background: #f5f5f5;
+	padding-left: 106px;
+	padding-bottom: 18px;
+}
+.k2 .left .a {
+	width: 420px;
+}
+.k2 .left .a li{
+	float: left;
+}
+.k2 .left .a img{
+	border:1px solid #e8e8e8;
+}
+.k2 .left .a .b{
+	padding-right: 10px;
+}
+.k2 .left .a .c a{
+	font-size: 13px;
+	line-height: 31px;
+	color: #333333;
+}
+.k2 .left .a strong{
+	color: #aaaaaa;
+}
+.k2 .right{
+	margin-top: 90px;
+	margin-right: 105px;
+}
+.k2 .right .a{
+	width: 94px;
+	line-height: 36px;
+	color: #e4393c;
+	background: #ffffff;
+}
+.k2 .right .b{
+	width: 168px;
+	line-height: 36px;
+	color: #ffffff;
+	background: #e4393c;
+	margin-left: 4px;
+}
+.k3,.k5 {
+	padding-left: 105px;
+}
+.k3 .top{
+	padding-top: 21px;
+	line-height: 38px;
+	font-weight: bold;
+	color: #333333;
+}
+.k3 .bottom{
+	border:1px dashed #cacaca;
+	width: 1210px;
+}
+.k3 .bottom ul{
+	float: left;
+	width: 220px;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.k3 .bottom ul li{
+	width: 205px;
+}
+.k3 .bottom ul a{
+	display: block;
+	padding-top: 164px;
+	color: #333333;
+}
+.k3 .bottom ul .a1{
+	background: url(../images/bk31.png) no-repeat 25px 4px;
+}
+.k3 .bottom ul .a2{
+	background: url(../images/bk32.png) no-repeat 37px 4px;
+}
+.k3 .bottom ul .a3{
+	background: url(../images/bk33.png) no-repeat 21px 0px;
+}
+.k3 .bottom ul .a4{
+	background: url(../images/bk34.png) no-repeat 55px 3px;
+}
+.k3 .bottom ul .a5{
+	background: url(../images/bk35.png) no-repeat 22px 6px;
+}
+.k3 .bottom ul .a6{
+	background: url(../images/bk36.png) no-repeat 49px 5px;
+}
+.k3 .bottom ul .a7{
+	background: url(../images/bk37.png) no-repeat 20px 0px;
+}
+.k3 .bottom ul .a8{
+	background: url(../images/bk38.png) no-repeat 52px 4px;
+}
+.k3 .bottom ul .a9{
+	background: url(../images/bk39.png) no-repeat 20px 0px;
+}
+.k3 .bottom ul .a10{
+	background: url(../images/bk310.png) no-repeat 55px 2px;
+}
+.k3 .bottom .a{
+	border-bottom: 1px dashed #cacaca;
+	border-right: 1px dashed #cacaca;
+}
+.k3 .bottom .b{
+	border-bottom: 1px dashed #cacaca;
+}
+.k3 .bottom .c{
+	border-right: 1px dashed #cacaca;
+}
+.k3 .bottom ul h1{
+	color: #d91f20;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+.k3 .bottom ul button{
+	width: 197px;
+	padding-left: 30px;
+	line-height: 28px;
+	color: #666666;
+	background:url(../images/bk3bg.png) no-repeat 57px 6px ;
+	border:1px solid #999999;
+}
+.k3 .bottom ul .b1{
+	background: url(../images/bk41.png) no-repeat 43px 4px;
+}
+.k3 .bottom ul .b2{
+	background: url(../images/bk42.png) no-repeat 35px 16px;
+}
+.k3 .bottom ul .b3{
+	background: url(../images/bk43.png) no-repeat 75px 2px;
+}
+.k3 .bottom ul .b4{
+	background: url(../images/bk44.png) no-repeat 35px 6px;
+}
+.k3 .bottom ul .b5{
+	background: url(../images/bk45.png) no-repeat 64px 3px;
+}
+.k5 .top{
+	padding-top: 21px;
+	line-height: 38px;
+	font-weight: bold;
+	color: #333333;
+}
+.k5 ul{
+	float: left;
+	border:1px solid #cacaca;
+	padding-bottom: 30px;
+
+}
+.k5 .bottom .a{
+	margin-right: 22px;
+} 
+.k5 .bottom h1{
+	padding-top: 32px;
+	padding-bottom: 14px;
+	color: #d91f20;
+	text-align: center;
+}
+.k5 .bottom ul button{
+	width: 123px;
+	padding-left: 25px;
+	line-height: 28px;
+	color: #666666;
+	background:url(../images/bk3bg.png) no-repeat 20px 6px ;
+	border:1px solid #999999;
+}
+.k5 .bottom .b{
+	padding-left: 79px;
+
+}
+.k6{
+	padding-top: 20px;
+	padding-left: 0px;
+	padding-bottom: 25px;
+}
+.k7 ul{
+	float: left;
+}
+.k7 .a{
+	width: 200px;
+}
+.k7 .b {
+	width: 184px;
+}
+.k7 .c{
+	width: 190px;
+}
+.k7 .title{
+	font-size:15px;
+	margin-bottom: 14px;
+}
+.k7 a{
+	color: #666666;
+
+}
+.k7 li{
+	margin-bottom: 9px;
+	color: #666666;
+}
+.k7 strong{
+	font-size: 15px;
+}
+.k7 .d{
+	padding-left: 132px;
+}
+.k7{
+	padding-bottom: 37px;
+	border-bottom: 1px solid #e5e5e5;
+}
+.k8{
+	padding-top: 23px;
+}
+.k8 .one{
+	padding-left: 175px;
+	padding-bottom: 14px;
+}
+.k8  li{
+	float: left;
+	border-right: 1px solid #956695;
+	border-left:  1px solid #cfffff;
+
+}
+.k8 a{
+	color: #666666;
+	margin-left: 10px;
+	margin-right: 12px;
+}
+.k8 .k a{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.k8 .a{
+	border-left:none;
+}
+.k8 .b{
+	border-right: none;
+}
+.k8 .two{
+	padding-left: 215px;
+	padding-bottom: 9px;
+}
+
+.k8 .two li{
+	color: #666666;
+	padding-left: 8px;
+	padding-right:8px;
+}
+.k8 .two .c{
+	display: block;
+	padding-left: 22px;
+	background: url(../images/k17bg1.png) no-repeat 0px 0px;
+}
+.k8 .three{
+	padding-left: 190px;
+	padding-bottom: 9px;
+}
+.k8 .three li{
+	color: #666666;
+	padding-left: 8px;
+	padding-right:8px;
+}
+.k8 .four{
+	padding-left: 387px;
+	padding-bottom: 9px;
+}
+.k8 .four li{
+	color: #666666;
+	padding-left: 8px;
+	padding-right:8px;
+}
+.k8 .five{
+	padding-left: 539px;
+}
+.k8 .five li{
+	color: #666666;
+}
+.k8 .five a{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.k8 .six{
+	padding-left:264px;
+}
+.k8 .six li{
+	border:none;
+	margin-right:13px;
+}
+.k7,.k8{
+	padding-left: 106px;
+}
+
+
+

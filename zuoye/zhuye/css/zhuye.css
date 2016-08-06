@@ -1,0 +1,1560 @@
+.k1 .one{
+	width: 1299px;
+	background: #f1f1f1;
+	padding-left: 116px;
+	padding-bottom: 1px;
+
+}
+
+.k1 .one strong, .k1 .one .b{
+	font-size: 11px;
+	line-height: 29px;
+	color: #666666;
+	margin-right: 6px;
+	display:  block;
+	float: left;
+}
+.k1 .one .b{
+	
+	width: 40px;
+	background: url(../images/k1bg01.png) no-repeat 27px 12px;
+}
+.k1 .one ul{
+	width: 912px;
+}
+.k1 .one li{
+	height: 11px;
+	float: left;
+	line-height: 29px;
+}
+.k1 .one ul a{
+	font-size: 11px;
+	color: #666666;
+	border-right: 1px solid #dddddd;
+	padding: 0px 10px;
+
+}
+.k1 .one ul .nav{
+	border-right: none;
+}
+.k1 .tow{
+	width: 947px;
+	
+	background: url(../images/k1title.png) no-repeat 107px 29px;
+	padding-left: 468px;
+	padding-top: 25px;
+	position: relative;
+	
+}
+.k1 .tow .first li{
+	float: left;
+}
+.k1 .tow .first{
+	width: 538px;
+}
+.k1 .tow input{
+	width: 454px;
+	height: 32px;
+	
+	border-right: none;
+}
+.k1 .tow button{
+	width: 82px;
+	height: 36px;
+	background:#b61d1d;
+	font-size: 16px;
+	color: #ffffff;
+}
+.k1 .tow .first .b{
+	margin-right: 11px;
+}
+.k1 .tow .first .a{
+	font-size: 11px;
+	color: #666666;
+	line-height: 27px;
+	padding-bottom:12px;
+}
+.k1 .tow .first .c{
+	color: #c81623;
+}
+
+.k1 .tow .second{
+	display: block;
+	width: 139px;
+	border: 1px solid #efefef;
+	position: absolute;
+	top: 25px;
+	right: 164px;
+	line-height: 33px;
+	padding-bottom: 1px;
+}
+.k1 .tow .second .title{
+	text-align: center;
+	font-size: 11px;
+	color: #666666;
+	margin-left: 44px;
+}
+.k1 .tow .second .a{
+	position: absolute;
+	left:19px;
+	top:10px;
+
+}
+.k1 .tow .second .b{
+	position: absolute;
+	right: 19px;
+	top: -3px;
+
+}
+.k1 .three{
+	width: 1079px;
+	border-bottom: 2px solid #b1191a;
+	padding-top: 1px;
+	padding-left:336px; 
+}
+.k1 .three li{
+	float: left;
+	line-height: 43px;
+	margin-right: 40px;
+
+
+}
+.k1 .three a{
+	font-size: 15px;
+	color: #333333;
+}
+.k1 .four{
+	padding-left: 106px;
+	padding-right: 99px;
+	width: 1210px;
+	position: relative;	
+}
+.k1 .four .left{
+	position: absolute;
+	width: 210px;
+	background: #c81623;
+	top: -46px;
+	padding-bottom: 3px;
+
+}
+.k1 .four .left li{
+	padding-left: 11px;	
+	background:url(../images/k1bg04.png) no-repeat 193px 11px;
+
+}
+.k1 .four .left .a{
+	background: #b1191a;
+	font-size: 13px;
+	color: #ffffff;
+	line-height: 45px;
+	padding-bottom: 1px;
+	padding-left: 10px;	
+}
+.k1 .four .left .b{
+	
+	font-size: 12px;
+	line-height: 31px;
+}
+.k1 .four .left .b a{
+	color: #ffffff;
+
+}
+.k1 .four .bright{
+	width: 248px;
+	position: absolute;
+	right: 99px;
+	top: 12px;
+    
+}
+.k1 .four .right{
+	width: 248px;
+	border: 1px solid #e4e4e4;
+	
+}
+.k1 .four .right .first{
+	font-size: 15px;
+	line-height: 31px;
+	padding-top:1px;
+	color: #666666;
+	margin-left: 15px;
+	border-bottom: 1px dashed  #e8e8e7;
+}
+.k1 .four .right .first a{
+	width: 51px;
+	display: block;
+	float: right;
+	font-size: 11px;
+	line-height: 31px;
+	padding-bottom: 1px;
+	margin-right: 28px;
+	color:#666666;
+	background: url(../images/k1bg05.png) no-repeat 31px 11px;
+}
+.k1 .four .right .second{
+	padding-left: 16px;
+	border-bottom: 1px solid #e4e4e4;
+
+}
+.k1 .four .right .second li{
+	padding-top: 1px;
+	line-height: 23px;
+
+}
+.k1 .four .right .second .a{
+	padding-top: 4px;
+}
+.k1 .four .right .second a{
+	font-size: 11px;
+	color: #666666;
+}
+.k1 .four .right .second .b{
+	padding-bottom: 4px;
+}
+.k1 .four .right .third a{
+	display: block;
+	width: 62px;
+	float: left;
+	border-bottom: 1px solid #e4e4e4;
+	border-right: 1px solid #e4e4e4;
+	line-height: 31px;
+	padding-top: 38px;
+	text-align: center;
+	color: #666666;
+}
+.k1 .four .right .third .a{
+	border-right: none;
+	width: 59px;
+}
+.k1 .four .right .third .b{
+	border-bottom: none;
+}
+.k1 .four .right .third .b1{
+	background: url(../images/k1bg06.png) no-repeat 21px 13px;
+}
+.k1 .four .right .third .b2{
+	background: url(../images/k1bg07.png) no-repeat 19px 15px;
+}
+.k1 .four .right .third .b3{
+	background: url(../images/k1bg08.png) no-repeat 18px 15px;
+}
+.k1 .four .right .third .b4{
+	background: url(../images/k1bg09.png) no-repeat 18px 15px;
+}
+.k1 .four .bright .fourth{
+	display: block;
+	
+	padding-top: 4px;
+
+}
+.k1 .four .middle{
+	position: absolute;
+	left: 326px;
+	top: 12px;
+}
+
+.k1 .five{
+	padding-top: 477px;
+	padding-left: 106px;
+	width: 1210px;
+}
+.k1 .five li{
+	float: left;
+}
+.k1 .five .a{
+	margin-right: 1px;
+}
+.k1 .five .b{
+	border-right: 1px solid #c0c0c0;
+}
+.k1 .six{
+	padding-left: 106px;
+    width: 1210px;
+    padding-bottom: 21px;
+
+
+}
+.k1 .six .bd{
+	border:1px solid #ededed;
+	border-top: 1px solid #d1d1d1;
+}
+.k1 .six .a{
+	display: block;
+	width: 277px;
+	background: url(../images/k1bg10.png) no-repeat 87px 17px;
+	font-size: 19px;
+	line-height: 43px
+
+}
+.k1 .six .wrapper li{	
+	width: 200px;
+	float: left;
+	
+}
+.k1 .six .wrapper li a{
+	width: 126px;
+	display: block;	
+	padding: 157px 38px 9px 36px;
+	line-height: 18px;
+	color: #666666;
+	border-right: 1px solid #e6e6e6;
+
+		
+}
+.k1 .six .wrapper li .b1{
+	background: url(../images/k1six1.png) no-repeat  39px 45px;
+}
+.k1 .six .wrapper li .b2{
+	background: url(../images/k1six2.png) no-repeat  57px 23px;
+}
+.k1 .six .wrapper li .b3{
+	background: url(../images/k1six3.png) no-repeat  34px 20px;
+}
+.k1 .six .wrapper li .b4{
+	background: url(../images/k1six4.png) no-repeat  55px 22px;
+}
+.k1 .six .wrapper li .b5{
+	background: url(../images/k1six5.png) no-repeat  47px 26px;
+}
+.k1 .six .wrapper li .b6{
+	background: url(../images/k1six6.png) no-repeat  42px 21px;
+	border-right: none;
+}
+.k1 .six .wrapper strong{
+	display: block;
+	margin-left: 36px;
+	font-size:13px;
+	line-height: 31px;
+	color: #bb1d1a;
+	border-right: 1px solid #e6e6e6;
+}
+.k1 .six .wrapper li .c{
+	border-right: none;
+}
+.k1 .seven{
+	padding-left: 106px;
+    width: 1211px;
+    padding-bottom: 20px;
+}
+
+.k1 .seven .a{
+	font-size: 17px;
+	line-height: 35px;
+	color: #333333;
+}
+.k1 .seven .wrapper{
+	width: 403px;	
+	border:1px solid #ededed;
+}
+
+.k1 .seven .big strong{
+	display: block;
+	font-size: 13px;
+	line-height: 39px;
+	font-weight: bold;
+	text-align: center;
+	color: #333333;
+    border-bottom: 1px dashed #e0e0e0;
+}
+.k1 .seven .wrapper .c{
+	border-bottom: 1px solid #e0e0e0;
+}
+.k1 .seven .wrapper .c img{
+	width: 403px;
+}
+.k1 .seven .wrapper .b{
+	float: left;
+	border-right: 1px solid #e0e0e0;
+}
+.k1 .seven .wrapper .d{
+	
+	border-right: none;
+}
+.k1 .seven .wrapper2{
+	width: 229px;
+	border:1px solid #ededed;
+	border-left: none;
+}
+.k1 .seven .wrapper2 .a{
+	border-bottom:1px solid #ededed;
+}
+.k1 .seven .wrapper3{
+	width: 403px;
+	border:1px solid #ededed;
+	border-left: none;
+
+}
+.k1 .seven .wrapper3 .b{
+	border-bottom:1px solid #ededed;
+}
+.k1 .seven .wrapper3 .a{
+	border-right:1px solid #ededed;
+	float: left;
+}
+.k1 .seven .wrapper4 .a{
+	border: 1px solid #ededed;
+	border-left: none;
+	
+}
+.k1 .eight{
+	padding-left: 106px;
+    width: 1210px;
+}
+.k1{
+	padding-bottom: 26px;
+}
+.k2,.k3,.k4,.k5,.k6,.k7,.k8,.k9,.k10,.k11,.k12,.k13,.k14,.k15,.k16,.k17{
+	padding-left: 106px;
+    width: 1210px;
+}
+.group .groupone{
+	border-bottom: 1px solid #c81623;
+}
+.group .groupone ul{
+	border:1px solid #ededed;
+	border-bottom: none;
+}
+.group .groupone li{
+	float: left;
+	line-height: 34px;
+}
+.group .groupone a{
+	color: #666666;
+	padding: 0px 17px;
+	border-right: 1px solid #ededed;
+}
+.group .groupone .b{
+	border-right: none;
+}
+.group .groupone h1{
+	font-size: 20px;
+	padding-top: 3px;
+	padding-left: 40px;	
+}
+
+.group .bottom {
+	padding-top: 13px;
+	padding-bottom: 13px;
+	background: #f7f7f7;
+	margin-bottom: 22px;
+	margin-top: 10px;
+
+}
+.group .bottom li{
+	float: left;
+	border-right: 1px dashed #cccccc;
+}
+.group .bottom .a{
+	border-right: none;
+}
+
+
+
+
+.k2 .top h1{
+	background: url(../images/k2topbg1.png) no-repeat 0px 0px;
+}
+
+
+.k2 .middle .left .first{
+	width:265px; 
+	background:#e9ebf4;
+	padding:17px 39px 17px 25px;
+	border-bottom: 1px solid #ededed;
+}
+.k2 .middle .left  .first li{
+	width: 128px;
+	line-height: 24px;
+}
+.k2 .middle .left  .first .a a{
+	float: left;
+	margin-right: 11px;
+	color: #999999;
+}
+.k2 .middle .left  .first .b a{
+	float: right;
+	margin-left: 11px;
+	color: #999999;
+}
+.k2 .middle .left  .first .a .active,.k2 .middle .first .b .active{
+	color: #c81623;
+}
+
+.k2 .middle .left {
+	position: relative;
+}
+.k2 .middle .left .nav{
+	position: absolute;
+	top: 253px;
+	left: 0px;
+	background: rgba(219,221,237,0.9);
+	width: 274px;
+	padding: 10px 31px 8px 25px;
+}
+.k2 .middle .left .nav li{
+	float: left;
+	margin-right: 40px;
+	
+}
+.k2 .middle .left .nav .b{
+	margin-right: 0px;
+}
+.k2 .middle .left .nav a{
+	display: block;
+	font-size: 12px;
+	line-height: 28px;
+	color: #666666;
+	padding-left: 31px;
+}
+.k2 .middle .left .nav .a1{
+	background: url(../images/k2bg1.png) no-repeat 0px 0px;
+}
+.k2 .middle .left .nav .a2{
+	background: url(../images/k2bg2.png) no-repeat 0px 0px;
+}
+.k2 .middle .left .nav .a3{
+	background: url(../images/k2bg3.png) no-repeat 0px 0px;
+}
+.k2 .middle .left .nav .a4{
+	background: url(../images/k2bg4.png) no-repeat 0px 0px;
+}
+.k2 .middle .left .nav .a5{
+	background: url(../images/k2bg5.png) no-repeat 0px 0px;
+}
+.k2 .middle .left .nav .a6{
+	background: url(../images/k2bg6.png) no-repeat 0px 0px;
+}
+.k2 .middle .left .nav .a{
+	margin-bottom: 18px;
+}
+.k2 .middle .middle-m{
+	width: 660px;
+	position: relative;
+}
+.k2 .middle .middle-m li{
+	float: left;
+	border-right: 1px solid #ededed;
+	border-bottom: 1px solid #ededed;
+}
+.k2 .middle .middle-m .a{
+	margin-left: 440px;
+}
+.k2 .middle .middle-m .nav img{
+	width: 440px;
+}
+.k2 .middle .middle-m .loop{
+	width:440px;
+	position: absolute;
+	left: 0px;
+	top: 158px;
+	border-right: 1px solid #ededed;
+	overflow: hidden;
+}
+.k2 .middle .middle-m .nav{
+	width: 882px;
+}
+.k2 .middle .middle-m .nav li{
+	float: left;
+}
+.k2 .middle .middle-m .cricle{
+	position: absolute;
+	left: 208px;
+	bottom: 10px;
+}
+.k2 .middle .middle-m .cricle span{
+	display: block;
+	float: left;
+	width: 9px;
+	height: 9px;
+	border-radius: 50%;
+	margin-right: 7px;
+	background: #3e3e3e;
+}
+.k2 .middle .middle-m .cricle .active{
+	background: #b61b1f;
+}
+.k2 .middle .right{
+	width: 220px;
+}
+.k2 .middle .right li{
+	border-right: 1px solid #ededed;
+	border-bottom: 1px solid #ededed;
+}
+.k2 .middle{
+	padding-bottom: 10px;
+}
+.k2 .bottom1{
+	width: 1200px;
+	background: #f7f7f7;
+	padding-left:10px;
+	padding-top: 13px;
+}
+.k2 .bottom1 li{
+	float: left;
+	border-left: 1px dashed #cccccc;
+	margin-bottom: 10px;
+}
+.k2 .bottom1 .a{
+	border-left: none;
+	padding-right: 10px;
+}
+.k2{
+	padding-bottom: 22px;
+}
+
+.k3 .one h1{
+	background: url(../images/k3one1.png) no-repeat 0px 0px;
+}
+.k3 .two .left{
+	width: 209px;
+	position: relative;
+}
+.k3 .two .first{
+	width: 163px;
+	background:#e2f8fb;
+	padding: 22px 21px 22px 25px;
+}
+.k3 .two .first .second .a{
+	margin-bottom: 5px;
+}
+.k3 .two .first .second li{
+	line-height: 24px;
+
+}
+.k3 .two .first .second .b{
+	color: #666666;
+	font-size: 13px;
+}
+.k3 .two .first .second .c a{
+	color: #999999;
+	margin-right: 11px;
+}
+.k3 .two .first .second .c .d{
+	color: #c81623;
+}
+.k3 .two .first .second .c .e{
+	margin-right: 0px;
+}
+.k3 .two .left-nav{
+	width: 189px;
+	position: absolute;
+	left: 0px;
+	top: 237px;
+	background: rgba(216,246,250,0.9);
+	padding: 10px 10px 7px 10px;
+}
+.k3 .two .left-nav li{
+	float: left;
+	line-height: 29px;
+	margin-right: 11px;
+	width: 83px;
+	
+}
+.k3 .two .left-nav .a{
+	margin-bottom: 17px;
+}
+.k3 .two .left-nav li a{
+	display: block;
+	padding-left: 31px;
+	font-size: 13px;
+	color: #666666;
+}
+.k3 .two .left-nav .a1{
+	background: url(../images/k3twobg1.png) no-repeat  0px 0px;
+}
+.k3 .two .left-nav .a2{
+	background: url(../images/k3twobg2.png) no-repeat  0px 0px;
+}
+.k3 .two .left-nav .a3{
+	background: url(../images/k3twobg3.png) no-repeat  0px 0px;
+}
+.k3 .two .left-nav .a4{
+	background: url(../images/k3twobg4.png) no-repeat  0px 0px;
+}
+.k3 .two .right {
+	width: 1001px;
+	position: relative;
+}
+.k3 .two .right li{
+	float: left;
+
+}
+.k3 .two .right .a{
+	border-bottom: 1px dashed #cccccc;
+	border-right:3px solid white;
+}
+.k3 .two .right .b{
+	border-bottom: 1px solid #ededed;
+	border-right:1px solid #ededed;
+}
+.k3 .two .right .c{
+	margin-left: 340px;
+}
+.k3 .two .right .loop{
+	position: absolute;
+	width: 340px;
+	left: 0px;
+	top: 298px;
+	overflow: hidden;
+	border-bottom: 1px solid #ededed;
+}
+.k3 .two .right .nav{
+	width: 680px;
+}
+.k3 .two .right .loop .circle{
+	position: absolute;
+	left: 174px;
+	bottom: 10px;
+}
+.k3 .two .right .loop .circle span{
+	display: block;
+	height: 9px;
+	width: 9px;
+	float: left;
+	border-radius: 50%;
+	margin-right: 7px;
+	background: #3e3e3e;
+
+}
+.k3 .two .right .loop .circle .active{
+	background: #b61b1f;
+}
+.k3 .two{
+	padding-bottom: 10px;
+}
+.k3 .three ul{
+	background: #f7f7f7;
+	padding-top: 13px;
+	padding-bottom: 13px;
+}
+.k3 .three li{
+	float: left;
+}
+.k3 .three {
+	padding-bottom: 21px;
+}
+.k3 .four{
+	padding-bottom: 20px;
+}
+.k3 .four li{
+	float: left;
+}
+.k4 .top h1{
+	background: url(../images/k4top.png) no-repeat 0px 0px;
+}
+.k4 .middle .left{
+	width: 329px;
+	position: relative;
+}
+.k4 .middle .left .first{
+	background: #d7d2e4;
+	padding: 22px 8px 20px 25px;
+	width: 296px;
+}
+.k4 .middle .left .first .second li{
+	width: 136px;
+}
+.k4 .middle .left .first .second .w1{
+	margin-right: 24px;
+}
+.k4 .middle .left .first .second a{
+    display: block;
+    float: left;
+    line-height: 24px;
+    margin-right: 11px;
+    color: #999999;
+
+}
+.k4 .middle .left .first .second .a{
+	color: #666666;
+	font-size: 13px;
+}
+.k4 .middle .left .first .second .b{
+	color: #c81623;
+}
+.k4 .middle .left .left-nav{
+	background: rgba(189,180,210,0.9);
+	position: absolute;
+	left: 0px;
+	top: 237px;
+	width: 304px;
+	padding-top: 10px;
+	padding-left: 25px;
+	padding-bottom: 8px;
+}
+.k4 .middle .left .left-nav li{
+	float: left;
+	margin-right: 39px;
+	line-height: 28px;
+	
+}
+.k4 .middle .left .left-nav a{
+	padding-left: 31px;
+	display: block;	
+	color: #666666;
+}
+.k4 .middle .left .left-nav .a1{
+	background: url(../images/k4middlebg1.png) no-repeat 0px 0px;
+}
+.k4 .middle .left .left-nav .a2{
+	background: url(../images/k4middlebg2.png) no-repeat 0px 0px;
+}
+.k4 .middle .left .left-nav .a3{
+	background: url(../images/k4middlebg3.png) no-repeat 0px 0px;
+}
+.k4 .middle .right{
+	width: 881px;
+	position: relative;
+
+}
+.k4 .middle .right li{
+	float: left;
+	border-right: 1px solid #ededed;
+	border-bottom: 1px solid #ededed;
+}
+.k4 .middle .right .a{
+	margin-left: 441px;
+}
+.k4 .middle .right .loop{
+	width: 440px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+.k4 .middle .right .nav{
+	width: 880px;
+}
+
+.k4 .middle .right .loop .circle{
+	position: absolute;
+	left: 224px;
+	bottom: 11px;
+}
+.k4 .middle .right .loop .circle span{
+	display: block;
+	float: left;
+	width: 9px;
+	height: 9px;
+	border-radius: 50%;
+	margin-right: 7px;
+	background: #3e3e3e;
+}
+.k4 .middle .right .loop .circle .active{
+	background: #b61b1f;
+}
+
+.k4 .bottom{
+	padding-top: 10px;
+
+}
+.k4 .bottom ul{
+	padding-top: 13px;
+	padding-bottom: 13px;
+	background: #f7f7f7;
+	margin-bottom: 22px;
+}
+.k4 .bottom li{
+	float: left;
+	border-right: 1px dashed #cccccc;
+}
+.k4 .bottom .a{
+	border-right: none;
+}
+.k5 .top h1{
+	background: url(../images/k5top.png) no-repeat 0px 0px;
+}
+.k5 .middle .left{
+	width: 329px;
+	position: relative;
+}
+.k5 .middle .left .first{
+	background: #e6f2f3;
+	padding: 22px 13px 20px 25px;
+	width: 291px;
+}
+.k5 .middle .left .first li{
+	width: 131px;
+	line-height: 24px;
+}
+.k5 .middle .left .first .w{
+	margin-right: 29px;
+}
+.k5 .middle .left .first a{
+	display: block;
+	float: left;
+	margin-right: 11px;
+	color: #999999;
+}
+.k5 .middle .left .first .a{
+	color: #666666;
+}
+.k5 .middle .left .first .b{
+	color: #c81623;
+}
+.k5 .middle .left .left-nav{
+	position: absolute;
+	left: 0px;
+	top: 237px;
+	background: rgba(214,234,235,0.9);
+	width: 304px;
+	padding-left: 25px;
+	padding-top: 10px;
+}
+.k5 .middle .left .left-nav li{
+	float: left;
+	line-height: 28px;
+	padding-bottom: 8px;
+}
+.k5 .middle .left .left-nav .a{
+	margin-right: 87px;
+}
+.k5 .middle .left .left-nav a{
+	display: block;
+	padding-left: 31px;
+	color: #666666;
+}
+.k5 .middle .left .left-nav .a1{
+	background: url(../images/k5bg1.png) no-repeat 0px 0px;
+}
+.k5 .middle .left .left-nav .a2{
+	background: url(../images/k5bg2.png) no-repeat 0px 0px;
+}
+
+
+.k5 .middle .right{
+	width: 881px;
+	position: relative;
+
+}
+.k5 .middle .right li{
+	float: left;
+	border-right: 1px solid #ededed;
+	border-bottom: 1px solid #ededed;
+}
+.k5 .middle .right .a{
+	margin-left: 440px;
+}
+.k5 .middle .right .loop{
+	width: 440px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+.k5 .middle .right .loop .nav{
+	width: 880px;
+}
+.k5 .middle .right .loop .circle{
+	position: absolute;
+	left: 224px;
+	bottom: 11px;
+}
+.k5 .middle .right .loop .circle span{
+	display: block;
+	float: left;
+	width: 9px;
+	height: 9px;
+	border-radius: 50%;
+	margin-right: 7px;
+	background: #3e3e3e;
+}
+.k5 .middle .right .loop .circle .active{
+	background: #b61b1f;
+}
+
+.k5 .bottom {
+	padding-top: 13px;
+	padding-bottom: 13px;
+	background: #f7f7f7;
+	margin-bottom: 22px;
+	margin-top: 10px;
+
+}
+.k5 .bottom li{
+	float: left;
+	border-right: 1px dashed #cccccc;
+}
+.k5 .bottom .a{
+	border-right: none;
+}
+
+.k6 .top h1{
+	background: url(../images/k6top.png) no-repeat 0px 0px;
+}
+
+.k6 .middle .left{
+	width: 329px;
+	position: relative;
+}
+.k6 .middle .left .first{
+	background: #e6f2f3;
+	padding: 22px 13px 20px 25px;
+	width: 291px;
+}
+.k6 .middle .left .first li{
+	width: 131px;
+	line-height: 24px;
+}
+.k6 .middle .left .first .w{
+	margin-right: 29px;
+}
+.k6 .middle .left .first a{
+	display: block;
+	float: left;
+	margin-right: 11px;
+	color: #999999;
+}
+.k6 .middle .left .first .a{
+	color: #666666;
+}
+.k6 .middle .left .first .b{
+	color: #c81623;
+}
+.k6 .middle .left .left-nav{
+	background: rgba(237,249,251,0.9);
+	position: absolute;
+	left: 0px;
+	top: 237px;
+	width: 304px;
+	padding-top: 10px;
+	padding-left: 25px;
+	padding-bottom: 8px;
+}
+.k6 .middle .left .left-nav li{
+	float: left;
+	margin-right: 21px;
+	line-height: 28px;
+	
+}
+.k6 .middle .left .left-nav a{
+	padding-left: 31px;
+	display: block;	
+	color: #666666;
+}
+.k6 .middle .left .left-nav .a1{
+	background: url(../images/k6bg1.png) no-repeat 0px 0px;
+}
+.k6 .middle .left .left-nav .a2{
+	background: url(../images/k6bg2.png) no-repeat 0px 0px;
+}
+.k6 .middle .left .left-nav .a3{
+	background: url(../images/k6bg3.png) no-repeat 0px 0px;
+}
+
+
+.k6 .middle .right{
+	width: 881px;
+	position: relative;
+
+}
+.k6 .middle .right li{
+	float: left;
+	border-right: 1px solid #ededed;
+	border-bottom: 1px solid #ededed;
+}
+.k6 .middle .right .a{
+	margin-left: 440px;
+}
+.k6 .middle .right .loop{
+	width: 440px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+.k6 .middle .right .loop .nav{
+	width: 880px;
+}
+.k6 .middle .right .loop .circle{
+	position: absolute;
+	left: 224px;
+	bottom: 11px;
+}
+.k6 .middle .right .loop .circle span{
+	display: block;
+	float: left;
+	width: 9px;
+	height: 9px;
+	border-radius: 50%;
+	margin-right: 7px;
+	background: #3e3e3e;
+}
+.k6 .middle .right .loop .circle .active{
+	background: #b61b1f;
+}
+
+.k6 .bottom {
+	padding-top: 13px;
+	padding-bottom: 13px;
+	background: #f7f7f7;
+	margin-bottom: 22px;
+	margin-top: 10px;
+
+}
+.k6 .bottom li{
+	float: left;
+	border-right: 1px dashed #cccccc;
+}
+.k6 .bottom .a{
+	border-right: none;
+}
+.k6 .four li{
+	float: left;
+	padding-bottom: 18px;
+}
+.k7 .top h1{
+	background: url(../images/k7top.png) no-repeat 0px 0px;
+}
+.k7 .two .left-nav .a1{
+	background: url(../images/k7bg1.png) no-repeat  0px 0px;
+}
+.k7 .two .left-nav .a2{
+	background: url(../images/k7bg2.png) no-repeat  0px 0px;
+}
+.k7 .two .left-nav .a3{
+	background: url(../images/k7bg3.png) no-repeat  0px 0px;
+}
+.k7 .two .left-nav .a4{
+	background: url(../images/k7bg4.png) no-repeat  0px 0px;
+}
+.k7 .middle .right{
+	position: relative;
+}
+.k7 .middle .right .loop{
+	position: absolute;
+	top: 237px;
+	left: 219px;
+
+}
+.k7 .middle .right .a{
+	margin-left: 341px;
+}
+.k8 .top h1{
+	background: url(../images/k8top.png) no-repeat 0px 0px;
+}
+
+.k8 .middle .left-nav{
+	background: rgba(246,246,216,0.9);
+}
+.k8 .middle .left-nav .a1{
+	background: url(../images/k8bg1.png) no-repeat 0px 0px;
+}
+.k8 .middle .left-nav .a2{
+	background: url(../images/k8bg2.png) no-repeat 0px 0px;
+}
+.k8 .middle .left-nav .a3{
+	background: url(../images/k8bg3.png) no-repeat 0px 0px;
+}
+.k8 .middle .left-nav .a4{
+	background: url(../images/k8bg4.png) no-repeat 0px 0px;
+}
+
+.k8 .middle .left .first{
+	background: #f9f9e8;
+}
+.k8 .middle .right{
+	position: relative;
+}
+.k8 .middle .right .loop{
+	position: absolute;
+	top: 237px;
+	left: 219px;
+
+}
+.k8 .middle .right .a{
+	margin-left: 341px;
+}
+.k9 .top h1{
+	background: url(../images/k9top.png) no-repeat 0px 0px;
+}
+.k9 .middle .left-nav{
+	background: rgba(216,239,246,0.9);
+}
+.k9 .middle .left-nav .a1{
+	background: url(../images/k9bg1.png) no-repeat 0px 0px;
+}
+.k9 .middle .left-nav .a2{
+	background: url(../images/k9bg2.png) no-repeat 0px 0px;
+}
+.k9 .middle .left-nav .a3{
+	background: url(../images/k9bg3.png) no-repeat 0px 0px;
+}
+.k9 .middle .left-nav .a4{
+	background: url(../images/k9bg4.png) no-repeat 0px 0px;
+}
+.k9 .middle .left .first{
+	background: #e7f5f9;
+}
+.k10 .top h1{
+	background: url(../images/k10top.png) no-repeat 0px 0px;
+}
+.k10 .middle .left-nav{
+	background: rgba(252,206,246,0.9);
+}
+.k10 .middle .left-nav .a1{
+	background: url(../images/k10bg1.png) no-repeat 0px 0px;
+}
+.k10 .middle .left-nav .a2{
+	background: url(../images/k10bg2.png) no-repeat 0px 0px;
+}
+.k10 .middle .left-nav .a3{
+	background: url(../images/k10bg3.png) no-repeat 0px 0px;
+}
+.k10 .middle .left-nav .a4{
+	background: url(../images/k10bg4.png) no-repeat 0px 0px;
+}
+.k10 .middle .left .first{
+	background: #fcd7f8;
+}
+
+.k11 .top h1{
+	background: url(../images/k11top.png) no-repeat 0px 0px;
+}
+.k11 .middle .left-nav{
+	background: rgba(229,244,249,0.9);
+}
+.k11 .middle .left-nav .a1{
+	background: url(../images/k11bg1.png) no-repeat 0px 0px;
+}
+.k11 .middle .left-nav .a2{
+	background: url(../images/k11bg2.png) no-repeat 0px 0px;
+}
+.k11 .middle .left-nav .a3{
+	background: url(../images/k11bg3.png) no-repeat 0px 0px;
+}
+.k11 .middle .left-nav .a4{
+	background: url(../images/k11bg4.png) no-repeat 0px 0px;
+}
+.k11 .middle .left .first{
+	background: #e9f6fa;
+}
+.k11 .middle .right{
+	width: 660px;
+}
+.k11 .middle .right{
+	position: relative;
+}
+.k11 .middle .right .loop{
+	width: 440px;
+	position: absolute;
+	top: 0px;
+	left: 220px;
+}
+.k11 .middle .right .loop .nav{
+	width: 880px;
+}
+.k11 .middle .right .a{
+     margin-left:0px; 
+     margin-right: 440px;
+	
+}
+.k11 .middle .last{
+	padding-left: 10px;
+	width: 330px;
+	border-bottom: 1px solid #e4e4e4;
+	border-right: 1px solid #e4e4e4;
+	padding-bottom: 16px;
+}
+.k11 .middle .last .a{
+	padding-left: 5px;
+	padding-top: 4px;
+	line-height: 42px;
+	border-bottom: 1px solid #e4e4e4;
+}
+.k11 .middle .last .a a{
+	font-size: 18px;
+	color: #666666;
+}
+.k11 .middle .last .b  li{
+	float: left;
+}
+.k11 .middle .last .b .c{
+	line-height: 34px;
+	width: 72px;
+	border-right: 1px dashed #dbdbdb;
+	margin-top: 19px;
+
+}
+.k11 .middle .last .b .c a{
+	display: block;
+	color: #666666;
+	padding-top: 49px;
+	padding-left: 21px;
+	background: url(../images/k11three1.png) no-repeat 9px 2px;
+}
+.k11 .middle .last .b .c .a1{
+	background: url(../images/k11three1.png) no-repeat 9px 2px;
+}
+.k11 .middle .last .b .c .a2{
+	background: url(../images/k11three2.png) no-repeat 9px 2px;
+}
+.k11 .middle .last .b .c .a3{
+	background: url(../images/k11three3.png) no-repeat 9px 2px;
+}
+.k11 .middle .last .b .c .a4{
+	background: url(../images/k11three4.png) no-repeat 9px 2px;
+}
+.k11 .middle .last .b .d{
+	padding-top: 20px;
+	padding-left: 15px;
+}
+.k11 .middle .last .b .e{
+	width: 155px;
+}
+.k11 .middle .last .b .f{
+	width: 69px;
+}
+.k11 .middle .last .b .e h1{
+	color: #666666;
+	line-height: 24px;
+}
+.k11 .middle .last .b .g{
+	width: 150px;
+	background: #f8f8f8;
+	padding-top: 10px;
+	padding-bottom: 9px;
+}
+.k11 .middle .last .b .g a{
+	color: #999999;
+	line-height: 18px;
+}
+
+
+
+
+.k12 .top h1{
+	background: url(../images/k12top.png) no-repeat 0px 0px;
+}
+.k12 .middle .left .left-nav{
+	background: rgba(239,237,253,0.9);
+}
+.k12 .middle .left .left-nav .a1{
+	background: url(../images/k12bg1.png) no-repeat 0px 0px;
+}
+.k12 .middle .left .left-nav .a2{
+	background: url(../images/k12bg2.png) no-repeat 0px 0px;
+}
+.k12 .middle .left .left-nav .a3{
+	background: url(../images/k12bg3.png) no-repeat 0px 0px;
+}
+.k12 .middle .left .left-nav .a4{
+	background: url(../images/k12bg4.png) no-repeat 0px 0px;
+}
+.k12 .middle .left .first{
+	background: #f5f4fe;
+}
+.k13 h1{
+	font-size: 20px;
+	padding-top: 3px;
+	padding-left: 40px;	
+	border-bottom: 1px solid #c81623;
+	background: url(../images/k13top.png) no-repeat 0px 0px;
+}
+.k13 .middle .left .left-nav .a{
+	margin-right: 50px;
+}
+.k13 .middle .left .left-nav{
+	padding-left: 25px;
+	width: 175px;
+}
+.k13 .middle .right{
+	width: 396px;
+	position: relative;
+}
+.k13 .middle .right .a{
+	margin-top: 237px;
+
+}
+.k13 .middle .right .loop{
+	width: 396px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.k13 .middle .right .loop .nav{
+	width: 792px;
+}
+.k14 .top{
+	margin-bottom: 12px;
+}
+.k14 .top strong{
+	margin-right: 120px;
+	font-size: 19px;
+	color: #666666;
+}
+.k14 .top .a{
+	margin-right: 820px;
+}
+.k14{
+	width: 1213px;
+}
+.k14 .bottom .left{
+	border:1px solid #ededed;
+	width: 901px;
+}
+.k14 .bottom .left li{
+	float: left;
+}
+.k14 .bottom .left .a{
+	border-right: 1px solid #ededed;
+}
+.k14 .bottom .left .b{
+	border-right: 1px solid #ededed;
+	border-bottom: 1px solid #ededed;
+}
+.k14 .bottom .left .c{
+	border-bottom: 1px solid #ededed;
+}
+.k14 .bottom .right{
+	width: 309px;
+	border:1px solid #ededed;
+	border-left: none;
+}
+.k14 .bottom .right .a{
+	border-bottom: 1px solid #ededed
+}
+.k15{
+	padding-top: 20px;
+	padding-left: 0px;
+	padding-bottom: 25px;
+}
+.k16 ul{
+	float: left;
+}
+.k16 .a{
+	width: 200px;
+}
+.k16 .b {
+	width: 184px;
+}
+.k16 .c{
+	width: 190px;
+}
+.k16 .title{
+	font-size:15px;
+	margin-bottom: 14px;
+}
+.k16 a{
+	color: #666666;
+
+}
+.k16 li{
+	margin-bottom: 9px;
+	color: #666666;
+}
+.k16 strong{
+	font-size: 15px;
+}
+.k16 .d{
+	padding-left: 132px;
+}
+.k16{
+	padding-bottom: 37px;
+	border-bottom: 1px solid #e5e5e5;
+}
+.k17{
+	padding-top: 23px;
+}
+.k17 .one{
+	padding-left: 175px;
+	padding-bottom: 14px;
+}
+.k17  li{
+	float: left;
+	border-right: 1px solid #956695;
+	border-left:  1px solid #cfffff;
+
+}
+.k17 a{
+	color: #666666;
+	margin-left: 10px;
+	margin-right: 12px;
+}
+.k17 .k a{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.k17 .a{
+	border-left:none;
+}
+.k17 .b{
+	border-right: none;
+}
+.k17 .two{
+	padding-left: 215px;
+	padding-bottom: 9px;
+}
+
+.k17 .two li{
+	color: #666666;
+	padding-left: 8px;
+	padding-right:8px;
+}
+.k17 .two .c{
+	display: block;
+	padding-left: 22px;
+	background: url(../images/k17bg1.png) no-repeat 0px 0px;
+}
+.k17 .three{
+	padding-left: 190px;
+	padding-bottom: 9px;
+}
+.k17 .three li{
+	color: #666666;
+	padding-left: 8px;
+	padding-right:8px;
+}
+.k17 .four{
+	padding-left: 387px;
+	padding-bottom: 9px;
+}
+.k17 .four li{
+	color: #666666;
+	padding-left: 8px;
+	padding-right:8px;
+}
+.k17 .five{
+	padding-left: 539px;
+}
+.k17 .five li{
+	color: #666666;
+}
+.k17 .five a{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.k17 .six{
+	padding-left:264px;
+}
+.k17 .six li{
+	border:none;
+	margin-right:13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

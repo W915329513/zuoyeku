@@ -1,0 +1,134 @@
+     body,ul,ol,dl,dd,h1,h2,h3,h4,h5,h6,p{
+
+       margin: 0;
+
+       font: 12px "宋体";
+
+     }
+
+     table{
+
+      border-collapse: collapse;
+
+
+
+
+     }
+
+    td,th{
+
+     padding: 0;
+
+
+    }
+
+
+
+     ul,ol{padding:0;}
+
+    li{
+
+       list-style: none;
+
+      
+
+
+     }
+
+     em{
+
+     font-style: normal;
+
+   }
+
+
+   strong{
+
+     font-weight: normal;
+
+   }
+
+   a{
+
+     text-decoration: none;
+
+   }
+
+   img{
+
+    border: none;
+
+    vertical-align: top;
+
+    display: block;
+
+   }
+
+     input{
+
+      padding: 0px;
+
+      margin: 0px;
+
+
+      outline:none;
+
+
+     }
+
+
+    textarea{
+
+      padding:0px;
+
+      resize:none;
+
+      outline:none;
+
+
+
+
+    }
+
+    select {
+
+     outline: none;
+
+
+    }
+
+    button{
+
+     border: none;
+
+     outline: none;
+
+
+     padding: 0px;
+
+
+
+    }
+
+
+   .fl{
+
+    float: left;
+
+   }
+
+   .fr{
+
+    float: right;
+
+   }
+
+  .clear:after{
+
+     content: '';
+
+     display: block;
+
+     clear: both;
+
+  }
